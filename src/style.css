@@ -1,1 +1,21 @@
 /* css */
+body,html{
+    height: 100%;
+    margin: 0;
+}
+.bg{
+    background-image:url("fundodapaginamedia.jpg"); 
+    background-repeat: no-repeat; /*não repetir a imagem*/
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: /* incluir fonte */
+    
+}
+ #root{
+     text-align: center; /*texto alinhado,no meio da página*/
+ }
+
+ .cor-vermelho{
+     color: rgb(24, 22, 24); /*Ajustar cor*/
+ }
