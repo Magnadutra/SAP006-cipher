@@ -19,7 +19,7 @@ A descriptografia utiliza a mesma lógica só que ao contrário.
 Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor", indentifiquei potencial de buscas.
 
 
-Os Graficos demonstram a quantidade de buscas no Google pelas palavras ".presents criativo"
+Os Graficos demonstram a quantidade de buscas no Google  das palavras "presentes criativos".
 
 ![image  grafico presen criativo ](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG)
 
@@ -40,7 +40,7 @@ A caixa da direita:
 
 O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando no botão **Descodificar**, a mensagem será enviada para a caixa da direita Descodificando automáticamente.
 
-<img src= ""/>
+![imagem site] (https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
 
 
 Paleta de cores
