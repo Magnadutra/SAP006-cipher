@@ -40,7 +40,7 @@ A caixa da direita:
 
 O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando no botão **Descodificar**, a mensagem será enviada para a caixa da direita Descodificando automáticamente.
 
-![imagem site] (https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
+![imagem site](https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
 
 
 Paleta de cores
