@@ -19,7 +19,7 @@ A descriptografia utiliza a mesma lógica só que ao contrário.
 Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor", indentifiquei potencial de buscas.
 
 
-Os Graficos demonstram a quantidade de buscas no Google  das palavras "presentes criativos".
+Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presentes criativos" e "carta de amor".
 
 ![image  grafico presen criativo ](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG)
 
@@ -44,6 +44,8 @@ O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando n
 
 
 Paleta de cores
+
+![paleta de cores](https://github.com/Magnadutra/SAP006-cipher/blob/main/Paleta%20de%20cores.jpeg)
 
 ## 5. Criptografia e Descriptografia
 - Letras Minúsculas e Maiúsculas;
