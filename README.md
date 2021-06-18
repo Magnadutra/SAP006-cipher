@@ -16,15 +16,14 @@ A descriptografia utiliza a mesma lógica só que ao contrário.
 
 
 ## 2. Sobre o tema
-Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor", indentifiquei potencial de buscas.
+Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor", indentifiquei potencial de buscas
 
 
 Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presentes criativos" e "carta de amor".
 
-![imagem  - grafico presente criativo]"https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG"
+![imagem  - grafico presente criativo]("https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG")
 
-![imagem - grafico  carta de amor] "https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG"
-
+![imagem  - grafico presente criativo] ("https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG")
 
 ## 3. Usuários
 Além de ser uma nova maneira divertidda de se comunicar, o principal objetivo é proporcionar ao usuário a possibilidade de criar um presente criativo e de baixo custo.
@@ -42,7 +41,7 @@ O usuário escreverá uma mensagem de texto, ao clicar no botão para **Codifica
 A caixa da direita:
 
 
-![imagem site] "https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG"
+![imagem site]("https://magnadutra.github.io/SAP006-cipher/")
 
 ## 5. Criptografia e Descriptografia
 - Letras Minúsculas e Maiúsculas;
