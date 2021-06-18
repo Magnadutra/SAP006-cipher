@@ -23,7 +23,7 @@ Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presente
 
 ![imagem  - grafico presente criativo](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG)
 
-![imagem - carta de  amor] (https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG)
+![imagem - carta de  amor](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG)
 ## 3. Usuários
 Além de ser uma nova maneira divertidda de se comunicar, o principal objetivo é proporcionar ao usuário a possibilidade de criar um presente criativo e de baixo custo.
 
