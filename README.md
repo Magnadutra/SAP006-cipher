@@ -43,10 +43,6 @@ O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando n
 ![imagem site](https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
 
 
-Paleta de cores
-
-![paleta de cores](https://github.com/Magnadutra/SAP006-cipher/blob/main/Paleta%20de%20cores.jpeg)
-
 ## 5. Criptografia e Descriptografia
 - Letras Minúsculas e Maiúsculas;
 - Deslocamento positivo e negativo;
