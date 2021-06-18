@@ -22,6 +22,7 @@ Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor",
 Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presentes criativos" e "carta de amor".
 
 ![image  grafico presen criativo ](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG)
+![image grafico  presente ](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG)
 
 ## 3. Usuários
 Além de ser uma nova maneira divertidda de se comunicar, o principal objetivo é proporcionar ao usuário a possibilidade de criar um presente criativo e de baixo custo.
