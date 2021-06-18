@@ -23,6 +23,7 @@ Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presente
 
 ![imagem  - grafico presente criativo](https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG)
 
+![imagem - carta de  amor] (https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG)
 ## 3. Usuários
 Além de ser uma nova maneira divertidda de se comunicar, o principal objetivo é proporcionar ao usuário a possibilidade de criar um presente criativo e de baixo custo.
 
@@ -39,7 +40,7 @@ O usuário escreverá uma mensagem de texto, ao clicar no botão para **Codifica
 A caixa da direita:
 
 
-![imagem site]("https://magnadutra.github.io/SAP006-cipher/")
+![imagem site](https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
 
 ## 5. Criptografia e Descriptografia
 - Letras Minúsculas e Maiúsculas;
