@@ -20,7 +20,9 @@ Com uma breve pesquisa de palavras como "presentes criativos" e "carta de amor",
 
 
 Os Graficos demonstram a quantidade de buscas no Google pelas palavras "presentes criativos" e "carta de amor".
+
 ![imagem  - grafico presente criativo]"https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20presente.JPG"
+
 ![imagem - grafico  carta de amor] "https://github.com/Magnadutra/SAP006-cipher/blob/main/Pesquisa%20-%20carta%20de%20amor.JPG"
 
 
@@ -39,7 +41,7 @@ O usuário escreverá uma mensagem de texto, ao clicar no botão para **Codifica
 
 A caixa da direita:
 
-O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando no botão **Descodificar**, a mensagem será enviada para a caixa da direita Descodificando automáticamente.
+
 ![imagem site] "https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG"
 
 ## 5. Criptografia e Descriptografia
