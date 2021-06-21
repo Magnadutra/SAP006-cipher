@@ -39,6 +39,8 @@ O usuário escreverá uma mensagem de texto, ao clicar no botão para **Codifica
 
 A caixa da direita:
 
+O usuário desvendará o mistério, ao inserir a mensagem codificada, clicando no botão **Descodificar**, a mensagem será enviada para a caixa da direita Descodificando automáticamente.
+
 
 ![imagem site](https://github.com/Magnadutra/SAP006-cipher/blob/main/Carta%20de%20amor%20anonima.JPG)
 
