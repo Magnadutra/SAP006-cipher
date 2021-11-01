@@ -69,7 +69,7 @@ input {
 }
 
 .textarea {
-  resize: node;
+  resize: none;
 }
 
 .box {
